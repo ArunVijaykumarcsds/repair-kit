@@ -2,7 +2,7 @@
 
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25,30&height=300&section=header&text=REPAIR%20KIT&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Where%20Problems%20Die%20and%20Knowledge%20Grows&descAlignY=55&descSize=25)
 
-```ascii
+```
 ██████╗ ███████╗██████╗  █████╗ ██╗██████╗     ██╗  ██╗██╗████████╗
 ██╔══██╗██╔════╝██╔══██╗██╔══██╗██║██╔══██╗    ██║ ██╔╝██║╚══██╔══╝
 ██████╔╝█████╗  ██████╔╝███████║██║██████╔╝    █████╔╝ ██║   ██║   
@@ -11,121 +11,126 @@
 ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝   ╚═╝   
 ```
 
-<h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="35" height="35" />
-  REPAIR KIT
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" height="35" />
-</h1>
+# 🔧 REPAIR KIT 🔧
 
-### ⚡ *A Battle-Tested Archive of Real-World Engineering Problems & Verified Solutions* ⚡
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="100" height="100"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" alt="Lock" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Voltage" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer.png" alt="Hammer" width="25" height="25" />
-</p>
+### ⚡ *A Personal Archive of Real-World Problems & Verified Fixes* ⚡
 
-[![Maintained by Arun VK](https://img.shields.io/badge/🔥_Maintained_by-Arun_VK-9C27B0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arunvk207)
-[![Root Cause Driven](https://img.shields.io/badge/🎯_Root_Cause-Driven-FF5722?style=for-the-badge&logo=target&logoColor=white)](#)
-[![Living Knowledge Base](https://img.shields.io/badge/🧠_Living-Knowledge_Base-4CAF50?style=for-the-badge&logo=database&logoColor=white)](#)
+![Maintained by Cyra](https://img.shields.io/badge/🔥_Maintained_by-Cyra-9C27B0?style=for-the-badge&logo=github&logoColor=white)
+![Root Cause Driven](https://img.shields.io/badge/🎯_Root_Cause-Driven-FF5722?style=for-the-badge&logo=target&logoColor=white)
+![Living Knowledge Base](https://img.shields.io/badge/🧠_Living-Knowledge_Base-4CAF50?style=for-the-badge&logo=database&logoColor=white)
 
-[![Troubleshooting](https://img.shields.io/badge/🔍_Systematic-Troubleshooting-2196F3?style=for-the-badge&logo=searchengin&logoColor=white)](#)
-[![Future Proofed](https://img.shields.io/badge/🛡️_Future-Proofed-FF9800?style=for-the-badge&logo=shield&logoColor=white)](#)
-[![Battle Tested](https://img.shields.io/badge/⚔️_Battle-Tested-E91E63?style=for-the-badge&logo=adguard&logoColor=white)](#)
+![Troubleshooting](https://img.shields.io/badge/🔍_Troubleshooting-Diagnostics-2196F3?style=for-the-badge&logo=bug&logoColor=white)
+![Future Proofed](https://img.shields.io/badge/🛡️_Future-Proofed-FF9800?style=for-the-badge&logo=shield&logoColor=white)
+![Markdown Powered](https://img.shields.io/badge/📝_Markdown-Powered-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-[![Status](https://img.shields.io/badge/🚀_Status-Always_Growing-00BCD4?style=for-the-badge&logo=atom&logoColor=white)](#)
-[![Verified Solutions](https://img.shields.io/badge/✅_Verified-Solutions-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
-[![Zero Fluff](https://img.shields.io/badge/💀_Zero-Fluff-212121?style=for-the-badge&logo=probot&logoColor=white)](#)
+![Status](https://img.shields.io/badge/🚀_Status-Always_Growing-00BCD4?style=for-the-badge&logo=trending-up&logoColor=white)
+![Verified Solutions](https://img.shields.io/badge/✅_Verified-Solutions-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Battle Tested](https://img.shields.io/badge/⚔️_Battle-Tested-E91E63?style=for-the-badge&logo=shield&logoColor=white)
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
 
 ### 💀 *"Every error. Every bug. Every crash. Logged. Solved. Documented forever."* 💀
 
 ### 🔥 *"The place where problems die and knowledge grows."* 🔥
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=800&lines=Real+Problems.+Real+Fixes.+Zero+Theory.;Built+From+Pain%2C+Caffeine+%26+Persistence.;Every+Bug+Is+A+Lesson.+Every+Fix+Is+Wisdom.;Debugging+Is+An+Art.+Documentation+Is+Power." alt="Typing SVG" />
-</p>
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=arunvk207.repair-kit&left_color=6A1B9A&right_color=00C853&left_text=Visitors)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_2025-blue?style=flat-square&logo=github)
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-∞-red?style=flat-square&logo=checkmarx)
-![Coffee Consumed](https://img.shields.io/badge/Coffee-∞_Cups-6F4E37?style=flat-square&logo=buymeacoffee)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cyra.repair-kit&left_color=purple&right_color=green&left_text=Visitors)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2025-blue?style=flat-square)
+![Issues Documented](https://img.shields.io/badge/Issues_Documented-∞-red?style=flat-square)
 
 </div>
 
 ---
 
-## 🌟 What Is This Repository?
+## 🌟 What Is This?
 
 <table>
 <tr>
-<td width="55%">
+<td width="60%">
 
-**repair-kit** is my externalized engineering brain — a living, breathing archive of every technical problem I've encountered, diagnosed, and conquered.
+**repair-kit** is my personal engineering brain, externalized and archived in code.
 
-This isn't a collection of Stack Overflow answers or random blog posts. **Every single entry here represents a real problem I personally faced** in production, development, or daily engineering life. Each folder contains:
+This repository contains **every technical issue I have ever faced** (and will face) — spanning software, hardware, operating systems, networking, browsers, programming tools, and the infinite chaos that comes with being a developer. Each folder represents a **real problem I personally encountered**, diagnosed, and solved, complete with:
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Red%20Circle.png" alt="Red Circle" width="20" height="20" /> **Symptoms** — What broke and how it manifested  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Search" width="20" height="20" /> **Root Cause** — The actual underlying issue discovered  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Test" width="20" height="20" /> **Diagnosis Process** — How I isolated and identified the problem  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Fix" width="20" height="20" /> **Fix Steps** — The verified solution that actually worked  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check" width="20" height="20" /> **Verification** — How to confirm the fix is permanent  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="20" height="20" /> **Prevention** — How to avoid this nightmare in the future
+- 🔴 **Symptoms** — What broke and how it manifested
+- 🔍 **Root Cause** — The actual underlying issue
+- 🧪 **Diagnosis Steps** — How I isolated the problem
+- 🔧 **Fix Steps** — The verified solution that worked
+- ✅ **Verification** — How to confirm it's actually fixed
+- 🛡️ **Prevention** — How to avoid it happening again
 
-<br>
-
-> **This repository represents hundreds of hours of debugging, systematic troubleshooting, root cause analysis, and relentless problem-solving.**
-
-**Why does this exist?**
-- ✅ Because I refuse to solve the same problem twice
-- ✅ Because debugging is a skill that compounds with documentation
-- ✅ Because context evaporates from memory faster than you think
-- ✅ Because future-me will thank present-me for this archive
+This isn't a collection of random fixes from the internet. Every entry here is **battle-tested, verified, and documented** from my own engineering experience.
 
 </td>
-<td width="45%">
+<td width="40%">
 
-<div align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+### 📊 Quick Stats
 
-<br><br>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" height="30" /> Repository Stats
-
-![Total Solutions](https://img.shields.io/badge/Solutions-Growing-4CAF50?style=for-the-badge&logo=trending-up&logoColor=white)
-![Categories](https://img.shields.io/badge/Categories-20+-2196F3?style=for-the-badge&logo=category&logoColor=white)
-![Success Rate](https://img.shields.io/badge/Success_Rate-100%25-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Avg Debug Time](https://img.shields.io/badge/Avg_Fix_Time-2.5h-FF9800?style=for-the-badge&logo=clock&logoColor=white)
-
-<br>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Growth" width="30" height="30" /> Activity Metrics
-
-![Bugs Squashed](https://img.shields.io/badge/🐛_Bugs_Squashed-Countless-E91E63?style=flat-square)
-![Hours Debugging](https://img.shields.io/badge/⏰_Hours_Debugging-∞-FF5722?style=flat-square)
-![Knowledge Gained](https://img.shields.io/badge/🧠_Knowledge-Exponential-00BCD4?style=flat-square)
-
-</div>
+![Total Solutions](https://img.shields.io/badge/Solutions-Growing-green?style=for-the-badge)
+![Categories](https://img.shields.io/badge/Categories-15+-blue?style=for-the-badge)
+![Success Rate](https://img.shields.io/badge/Success-100%25-brightgreen?style=for-the-badge)
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+### 💡 *Why does this exist?*
+
+**Because I refuse to solve the same problem twice.**  
+**Because debugging is a skill that improves with documentation.**  
+**Because knowledge that isn't captured is knowledge that's lost.**
+
+</div>
+
 ---
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="35" height="35" /> Philosophy & Principles
+## 🎯 Why This Repo Exists
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+<img src="https://img.icons8.com/fluency/96/000000/brain.png" alt="brain" width="80"/>
 
 </div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🧠 Knowledge Preservation
+
+<img src="https://img.icons8.com/fluency/48/000000/bookmark.png" alt="bookmark"/>
+
+- ✅ **Never solve the same problem twice**
+- ✅ Build a searchable long-term knowledge base
+- ✅ Convert pain into wisdom
+- ✅ Document context that disappears from memory
+- ✅ Create a personal troubleshooting library
+
+</td>
+<td width="50%" align="center">
+
+### 🚀 Engineering Growth
+
+<img src="https://img.icons8.com/fluency/48/000000/rocket.png" alt="rocket"/>
+
+- ✅ **Improve systematic debugging skills**
+- ✅ Track evolution as a developer
+- ✅ Understand root causes deeply
+- ✅ Build pattern recognition for failures
+- ✅ Have a single source of truth for all fixes
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
@@ -133,161 +138,81 @@ This isn't a collection of Stack Overflow answers or random blog posts. **Every 
 ║  🎯 Document before you forget.                                  ║
 ║  🧠 Learn before you repeat.                                     ║
 ║  🔥 Fix once, reference forever.                                 ║
-║  💀 Never assume. Always verify.                                 ║
-║  ⚡ Never cargo-cult. Always understand.                         ║
-║  🎯 Never stop at symptoms. Always find root causes.             ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<table>
-<tr>
-<td width="33%" align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="40" height="40" />
-
-### Knowledge Preservation
-
-**Never solve the same problem twice**
-
-Build a searchable, long-term memory
-- Convert debugging pain into documented wisdom
-- Capture context before it fades from memory
-- Create a personal troubleshooting encyclopedia
-
-</td>
-<td width="33%" align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40" />
-
-### Engineering Growth
-
-**Level up systematically**
-
-Improve debugging methodology with every entry
-- Track evolution as a problem-solver
-- Build pattern recognition for complex failures
-- Develop intuition through documented experience
-
-</td>
-<td width="33%" align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Voltage" width="40" height="40" />
-
-### Speed & Efficiency
-
-**Debug faster every time**
-
-Turn chaos into systematic resolution
-- Have a single source of truth for all fixes
-- Skip straight to solutions for known issues
-- Build confidence through proven methodologies
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="Folder" width="35" height="35" /> Repository Structure
+## 📁 Repository Structure
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+<img src="https://img.icons8.com/fluency/96/000000/folder-tree.png" alt="folder" width="80"/>
 
 </div>
 
-Each problem gets its own dedicated folder with complete documentation. No shortcuts. No half-measures.
+Each problem gets its own dedicated folder with complete documentation:
 
 <table>
 <tr>
-<td width="48%">
+<td width="50%">
 
 ```
 📦 repair-kit/
 ┃
-┣ 📂 01_chrome-network-recovery/
-┃ ┣ 📄 README.md
-┃ ┗ 📂 screenshots/
+┣ 📂 chrome-not-loading/
+┃ ┗ 📄 README.md
 ┃
-┣ 📂 02_dns-corruption-fix/
-┃ ┣ 📄 README.md
-┃ ┗ 📂 logs/
+┣ 📂 dns-corruption-issues/
+┃ ┗ 📄 README.md
 ┃
-┣ 📂 03_python-venv-resurrection/
-┃ ┣ 📄 README.md
-┃ ┗ 📂 scripts/
+┣ 📂 git-merge-conflict-hell/
+┃ ┗ 📄 README.md
 ┃
-┣ 📂 04_git-merge-conflict-hell/
-┃ ┣ 📄 README.md
-┃ ┗ 📂 examples/
+┣ 📂 python-venv-broken/
+┃ ┗ 📄 README.md
 ┃
-┣ 📂 05_vpn-driver-nightmare/
-┃ ┣ 📄 README.md
-┃ ┗ 📂 diagnostics/
+┣ 📂 vpn-driver-conflicts/
+┃ ┗ 📄 README.md
 ┃
-┣ 📂 06_windows-system-corruption/
-┃ ┣ 📄 README.md
-┃ ┗ 📂 recovery-tools/
+┣ 📂 system-corruption/
+┃ ┗ 📄 README.md
 ┃
-┣ 📂 07_vscode-extension-war/
-┃ ┣ 📄 README.md
-┃ ┗ 📂 config/
-┃
-┣ 📂 08_onedrive-ghost-files/
-┃ ┣ 📄 README.md
-┃ ┗ 📂 screenshots/
-┃
-┗ 📂 ...and counting
+┗ 📂 vscode-crash-loop/
+  ┗ 📄 README.md
 ```
 
 </td>
-<td width="52%">
+<td width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Clipboard" width="30" height="30" /> Standard Documentation Format
+### 📋 Standard Documentation Format
 
-Every issue folder follows this battle-tested structure:
+Every issue folder follows this structure:
 
 ```markdown
-# 🔴 [Problem Title]
-
-## 🎯 Quick Summary
-One-sentence problem description
+# 🔴 Issue Title
 
 ## 🔴 Symptoms
 What was broken and how it manifested
 
-## 🕵️ Root Cause
+## 🎯 Root Cause
 The actual underlying issue discovered
 
-## 🔬 Diagnosis Journey
+## 🔍 Diagnosis Steps
 How I isolated and identified the problem
-- Initial observations
-- Hypotheses tested
-- Dead ends explored
-- Breakthrough moment
 
-## 🛠️ Fix Steps
-Complete step-by-step verified solution
+## 🔧 Fix Steps
+Complete step-by-step solution
 
 ## ✅ Verification
-How to confirm the fix actually worked
+How to confirm the fix worked
 
-## 🛡️ Prevention
-How to avoid this disaster in the future
-
-## 📚 Lessons Learned
-Key takeaways and patterns discovered
-
-## 🔗 Related Issues
-Links to similar problems
+## 🛡️ Prevention (Optional)
+How to avoid this in the future
 ```
-
-**Every entry is:**
-- ✅ Verified through actual implementation
-- ✅ Reproducible with clear steps
-- ✅ Explained with root cause analysis
-- ✅ Future-proofed with prevention tips
 
 </td>
 </tr>
@@ -297,73 +222,168 @@ Links to similar problems
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" /> The Cyra Protocol™
+## 🚀 How to Use This Repo
 
-### *My Personal Systematic Debugging Methodology*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+<img src="https://img.icons8.com/fluency/96/000000/user-manual.png" alt="manual" width="80"/>
 
 </div>
-
-> **Named after Cyra, my AI debugging partner who helped systematize my troubleshooting approach**
-
-This is the methodology that powers every fix in this repository. Nine phases. Zero guesswork. Pure systematic elimination.
 
 <table>
 <tr>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Search" width="30" height="30" /> Phase 1: Observation & Isolation
+### 🔍 For Future Me
 
-#### 1️⃣ **Reproduce**
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Counterclockwise%20Arrows%20Button.png" alt="Reproduce" width="20" height="20" /> Can I make it fail consistently?  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Conditions" width="20" height="20" /> What are the exact conditions?  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Game%20Die.png" alt="Random" width="20" height="20" /> Does it happen every time or randomly?
+<img src="https://img.icons8.com/fluency/48/000000/search.png" alt="search"/>
 
-#### 2️⃣ **Observe**
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Eyes.png" alt="Eyes" width="20" height="20" /> What exactly is broken?  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Exclamation%20Question%20Mark.png" alt="Error" width="20" height="20" /> What error messages appear?  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Context" width="20" height="20" /> What's the full environmental context?
+**Finding Past Issues:**
+```bash
+# Search by keyword
+grep -r "Chrome" */README.md
 
-#### 3️⃣ **Isolate**
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check" width="20" height="20" /> What still works normally?  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Counterclockwise%20Arrows%20Button.png" alt="Changed" width="20" height="20" /> What changed recently?  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" alt="Target" width="20" height="20" /> Can I narrow down the variables?
+# Search by technology
+grep -r "Python" */README.md
 
-#### 4️⃣ **Test**
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Test" width="20" height="20" /> Does it work in a clean environment?  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Cross%20Mark.png" alt="Cross" width="20" height="20" /> Can I eliminate external factors?  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Settings" width="20" height="20" /> What happens with default settings?
+# Browse by folder names
+ls -la
+```
+
+**Naming Conventions:**
+- ✔️ Use descriptive, searchable names
+- ✔️ Include technology/tool name
+- ✔️ Use hyphens, not spaces
+- ✔️ Keep it concise but clear
 
 </td>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="30" /> Phase 2: Analysis & Resolution
+### ➕ Adding New Issues
+
+<img src="https://img.icons8.com/fluency/48/000000/plus.png" alt="plus"/>
+
+**When documenting a new problem:**
+
+1. 📁 Create a new folder with a clear name
+2. 📝 Follow the standard format above
+3. 🔍 Include all context and details
+4. ❌ Document what DIDN'T work too
+5. ✅ Add verification steps
+6. 🛡️ Include prevention tips
+
+**Maintenance:**
+- 🔄 Update old issues if solutions improve
+- 🔗 Add cross-references when relevant
+- 🏷️ Tag issues by category/type
+- 📋 Keep the main README updated
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🔬 The Problem-Solving Flow
+
+<img src="https://img.icons8.com/fluency/96/000000/workflow.png" alt="workflow" width="80"/>
+
+</div>
+
+```mermaid
+graph TB
+    A[🚨 PROBLEM ENCOUNTERED] --> B[👀 SYMPTOMS OBSERVED]
+    B --> C[🔍 DIAGNOSIS PROCESS]
+    C --> D[🎯 ROOT CAUSE FOUND]
+    D --> E[🔧 FIX IMPLEMENTED]
+    E --> F[✅ VERIFICATION COMPLETE]
+    F --> G[📝 DOCUMENTED IN REPO]
+    G --> H[🛡️ FUTURE-PROOFED]
+    
+    style A fill:#FF5722,stroke:#333,stroke-width:4px,color:#fff
+    style D fill:#FF9800,stroke:#333,stroke-width:3px,color:#fff
+    style E fill:#2196F3,stroke:#333,stroke-width:3px,color:#fff
+    style F fill:#4CAF50,stroke:#333,stroke-width:3px,color:#fff
+    style H fill:#9C27B0,stroke:#333,stroke-width:3px,color:#fff
+```
+
+<div align="center">
+
+### 🎯 *From Chaos to Clarity — Every Single Time*
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ The Cyra Protocol™
+
+<img src="https://img.icons8.com/fluency/96/000000/mind-map.png" alt="protocol" width="80"/>
+
+### 🔥 *My Personal Systematic Debugging Methodology* 🔥
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔍 Phase 1: Observation & Isolation
+
+<img src="https://img.icons8.com/fluency/48/000000/microscope.png" alt="microscope"/>
+
+#### 1️⃣ **Reproduce**
+- 🔄 Can I make it fail consistently?
+- 📋 What are the exact conditions?
+- 🎲 Does it happen every time or randomly?
+
+#### 2️⃣ **Observe**
+- 👁️ What exactly is broken?
+- 💬 What error messages appear?
+- 📊 What's the full context?
+
+#### 3️⃣ **Isolate**
+- ✅ What still works normally?
+- 🔄 What changed recently?
+- 🎯 Can I narrow down variables?
+
+#### 4️⃣ **Test**
+- 🧪 Does it work in a clean environment?
+- ❌ Can I eliminate external factors?
+- ⚙️ What happens with default settings?
+
+</td>
+<td width="50%">
+
+### 🎯 Phase 2: Analysis & Resolution
+
+<img src="https://img.icons8.com/fluency/48/000000/settings.png" alt="settings"/>
 
 #### 5️⃣ **Eliminate**
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Prohibited.png" alt="Prohibited" width="20" height="20" /> Rule out what it's NOT  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="20" height="20" /> Test one variable at a time  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Broom.png" alt="Broom" width="20" height="20" /> Remove red herrings systematically
+- 🚫 Rule out what it's NOT
+- 🔬 Test one variable at a time
+- 🧹 Remove red herrings systematically
 
 #### 6️⃣ **Fix**
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Fix" width="20" height="20" /> Apply targeted solution  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" alt="Root" width="20" height="20" /> Address root cause, not symptoms  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Document" width="20" height="20" /> Document what you're doing in real-time
+- 🔧 Apply targeted solution
+- 🎯 Address the root cause, not symptoms
+- 📝 Document what you're doing
 
 #### 7️⃣ **Validate**
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Validate" width="20" height="20" /> Does it actually work now?  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Check" width="20" height="20" /> Did the fix break anything else?  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Counterclockwise%20Arrows%20Button.png" alt="Reproduce" width="20" height="20" /> Can I reproduce the success reliably?
+- ✅ Does it actually work now?
+- 🔍 Did the fix break anything else?
+- 🔄 Can I reproduce the success?
 
 #### 8️⃣ **Document**
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Write" width="20" height="20" /> Write it down immediately while fresh  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" alt="Brain" width="20" height="20" /> Include full context and reasoning  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Prevention" width="20" height="20" /> Add prevention strategies
+- 📄 Write it down immediately
+- 🧠 Include full context and reasoning
+- 🛡️ Add prevention tips
 
 #### 9️⃣ **Future-proof**
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" alt="Future" width="20" height="20" /> How can I avoid this next time?  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Learn" width="20" height="20" /> What patterns emerged?  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Remember" width="20" height="20" /> What should I commit to memory?
+- 🔮 How can I avoid this next time?
+- 📚 What patterns did I learn?
+- 💡 What should I remember?
 
 </td>
 </tr>
@@ -373,14 +393,13 @@ This is the methodology that powers every fix in this repository. Nine phases. Z
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║              🔑 Core Debugging Principles 🔑                      ║
+║                    🔑 Core Debugging Principles 🔑                ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
-║  ⚡ Never assume. Always verify with evidence.                   ║
-║  🧠 Never cargo-cult. Always understand the WHY.                 ║
-║  🎯 Never stop at symptoms. Always dig to root causes.           ║
-║  📝 Never trust memory. Always document immediately.             ║
-║  🔥 Never accept "it just works". Always know HOW it works.      ║
+║  ⚡ Never assume. Always verify.                                 ║
+║  🧠 Never cargo-cult. Always understand.                         ║
+║  🎯 Never stop at symptoms. Always find root causes.             ║
+║  📝 Never forget. Always document.                               ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -391,11 +410,9 @@ This is the methodology that powers every fix in this repository. Nine phases. Z
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="35" height="35" /> Problem Categories
+## 🛠️ Types of Problems Logged Here
 
-### *The Infinite Spectrum of Chaos I've Conquered*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+<img src="https://img.icons8.com/fluency/96/000000/toolbox.png" alt="toolbox" width="80"/>
 
 </div>
 
@@ -403,24 +420,412 @@ This is the methodology that powers every fix in this repository. Nine phases. Z
 <tr>
 <td width="33%" align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="50" height="50" />
+### 💻 Operating Systems
 
-### Operating Systems
+<img src="https://img.icons8.com/fluency/64/000000/windows-10.png" alt="os"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="macos" />
-
-- Windows system corruption & BSOD
-- Linux boot failures & kernel panics
-- macOS quirks & permission nightmares
-- Driver conflicts & compatibility hell
-- Service crashes & startup failures
-- Registry corruption & system recovery
+- 🪟 Windows corruption
+- 🐧 Linux boot issues
+- 🍎 macOS quirks
+- 🔧 System updates gone wrong
+- 📦 Driver conflicts
+- ⚙️ Service failures
 
 </td>
 <td width="33%" align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians<function_results>OK</function_results>
+### 🌐 Networking & Web
+
+<img src="https://img.icons8.com/fluency/64/000000/internet.png" alt="network"/>
+
+- 🌍 Browser failures
+- 🔒 VPN/Tunnel conflicts
+- 📡 DNS corruption
+- 🔌 Connection timeouts
+- 🛡️ Firewall issues
+- 🔐 SSL/TLS errors
+
+</td>
+<td width="33%" align="center">
+
+### 🔧 Development Tools
+
+<img src="https://img.icons8.com/fluency/64/000000/code.png" alt="code"/>
+
+- 🐍 Python environment chaos
+- 📦 Package manager hell
+- 🔗 Git disasters
+- 💻 VS Code crashes
+- 🐛 Debugger issues
+- 🔨 Build tool failures
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+### 📊 Data & Algorithms
+
+<img src="https://img.icons8.com/fluency/64/000000/graph.png" alt="graph"/>
+
+- ⚡ DSA problem patterns
+- 🏆 Competitive programming pitfalls
+- 🧮 Algorithm optimization
+- 📈 Performance debugging
+- 🎯 Logic errors
+- 🔢 Edge case handling
+
+</td>
+<td width="33%" align="center">
+
+### 🔐 Security & Auth
+
+<img src="https://img.icons8.com/fluency/64/000000/lock.png" alt="lock"/>
+
+- 🔑 SSH key problems
+- 🎫 OAuth failures
+- 🔒 Permission denied errors
+- 🔐 Certificate issues
+- 🛂 Authentication loops
+- 🔓 Token corruption
+
+</td>
+<td width="33%" align="center">
+
+### 💥 The Unexplainable
+
+<img src="https://img.icons8.com/fluency/64/000000/ghost.png" alt="ghost"/>
+
+- 👻 Random Windows gremlins
+- 💾 Corrupted files
+- 🎲 Inconsistent failures
+- 🌀 Phantom errors
+- 🔮 Mysterious crashes
+- 🎪 "It worked yesterday" syndrome
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🏆 Battle Stories & Highlights
+
+<img src="https://img.icons8.com/fluency/96/000000/trophy.png" alt="trophy" width="80"/>
+
+### 🔥 *The Most Memorable Debugging Sessions* 🔥
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 💀 **The Chrome Apocalypse**
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="chrome" width="60"/>
+
+**⏱️ 4 hours of debugging**
+
+Internet worked perfectly. Every browser except Chrome loaded websites. Even IP addresses failed in Chrome. The culprit? Ghost VPN adapters hijacking Chromium's network stack.
+
+**Severity:** 🔴 Catastrophic  
+**Coffee Consumed:** ☕☕☕☕  
+**Lessons:** Check virtual network adapters first
+
+[![View Story](https://img.shields.io/badge/📖_View_Full_Story-FF5722?style=for-the-badge)](./chrome-not-loading/)
+
+</td>
+<td width="50%">
+
+### ⚡ **The DNS Labyrinth**
+
+<img src="https://img.icons8.com/fluency/60/000000/dns.png" alt="dns"/>
+
+**⏱️ 3 hours of confusion**
+
+Websites resolved to wrong IPs. Flushing DNS didn't help. Browser cache was fine. The issue? Multi-layer cache corruption spanning Chrome, Windows, and router levels simultaneously.
+
+**Severity:** 🟠 Complex  
+**Coffee Consumed:** ☕☕☕  
+**Lessons:** DNS has many cache layers
+
+[![View Story](https://img.shields.io/badge/📖_View_Full_Story-FF9800?style=for-the-badge)](./dns-corruption-issues/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🐍 **The Python Venv Nightmare**
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60"/>
+
+**⏱️ 2 hours of frustration**
+
+Virtual environment wouldn't activate. Pip commands failed. System Python was fine. The cause? Broken symlinks from a Windows system update that moved Python installation paths.
+
+**Severity:** 🟡 Moderate  
+**Coffee Consumed:** ☕☕  
+**Lessons:** Always use absolute paths in venv
+
+[![View Story](https://img.shields.io/badge/📖_View_Full_Story-2196F3?style=for-the-badge)](./python-venv-broken/)
+
+</td>
+<td width="50%">
+
+### 💻 **The VS Code Extension War**
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="60"/>
+
+**⏱️ 1 hour of chaos**
+
+VS Code crashed on startup. Safe mode worked. The problem? Two extensions fighting over keybindings created an infinite conflict loop during initialization.
+
+**Severity:** 🟢 Simple  
+**Coffee Consumed:** ☕  
+**Lessons:** Disable half, test, repeat
+
+[![View Story](https://img.shields.io/badge/📖_View_Full_Story-4CAF50?style=for-the-badge)](./vscode-crash-loop/)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 Repository Statistics
+
+<img src="https://img.icons8.com/fluency/96/000000/bar-chart.png" alt="stats" width="80"/>
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 📈 Total Solutions
+![](https://img.shields.io/badge/∞-Growing-4CAF50?style=for-the-badge&logo=trending-up)
+
+</td>
+<td align="center" width="25%">
+
+### ⏱️ Avg Fix Time
+![](https://img.shields.io/badge/2.5_hours-Average-FF9800?style=for-the-badge&logo=clock)
+
+</td>
+<td align="center" width="25%">
+
+### ✅ Success Rate
+![](https://img.shields.io/badge/100%25-Success-2196F3?style=for-the-badge&logo=checkmarx)
+
+</td>
+<td align="center" width="25%">
+
+### 📚 Categories
+![](https://img.shields.io/badge/15+-Topics-9C27B0?style=for-the-badge&logo=category)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Coffee Consumed](https://img.shields.io/badge/☕_Coffee_Consumed-∞_cups-795548?style=for-the-badge)
+![Hours Debugging](https://img.shields.io/badge/⏰_Hours_Debugging-Too_Many-FF5722?style=for-the-badge)
+![Knowledge Gained](https://img.shields.io/badge/🧠_Knowledge-Exponential-00BCD4?style=for-the-badge)
+![Bugs Squashed](https://img.shields.io/badge/🐛_Bugs_Squashed-Countless-E91E63?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎓 Learning Resources & Tools
+
+<img src="https://img.icons8.com/fluency/96/000000/book.png" alt="book" width="80"/>
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 📚 Recommended Reading
+
+<img src="https://img.icons8.com/fluency/48/000000/reading.png" alt="reading"/>
+
+- 📖 *The Practice of System and Network Administration* — Tom Limoncelli
+- 📖 *Site Reliability Engineering* — Google SRE Book
+- 📖 *Debugging: The 9 Indispensable Rules* — David Agans
+- 📖 *Systems Performance* — Brendan Gregg
+- 📖 *The Art of Troubleshooting* — Paul Venezia
+
+</td>
+<td width="50%">
+
+### 🔧 Essential Debugging Tools
+
+<img src="https://img.icons8.com/fluency/48/000000/toolbox.png" alt="tools"/>
+
+- 🛠️ **Sysinternals Suite** — Windows system utilities
+- 🔍 **Wireshark** — Network protocol analyzer
+- 📊 **Process Monitor** — Real-time system monitoring
+- 🌐 **Chrome DevTools** — Browser debugging
+- 🔀 **Git Bisect** — Finding commit bugs
+- 🐧 **strace/ltrace** — System call tracing (Linux)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🤝 Contributing
+
+<img src="https://img.icons8.com/fluency/96/000000/handshake.png" alt="handshake" width="80"/>
+
+</div>
+
+This is my personal knowledge base, but if you've stumbled upon this and found it helpful:
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🐛 Issues
+Found an error or have a question?
+
+[![Open Issue](https://img.shields.io/badge/Open-Issue-red?style=for-the-badge&logo=github)](https://github.com/cyra/repair-kit/issues)
+
+</td>
+<td align="center" width="33%">
+
+### 💬 Discussions
+Want to share your own solution?
+
+[![Start Discussion](https://img.shields.io/badge/Start-Discussion-blue?style=for-the-badge&logo=github)](https://github.com/cyra/repair-kit/discussions)
+
+</td>
+<td align="center" width="33%">
+
+### 💡 Improvements
+Better way to document something?
+
+[![Suggest](https://img.shields.io/badge/Suggest-Improvement-green?style=for-the-badge&logo=github)](https://github.com/cyra/repair-kit/pulls)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📜 License
+
+<img src="https://img.icons8.com/fluency/96/000000/certificate.png" alt="license" width="80"/>
+
+These are my personal troubleshooting notes, shared publicly in the hope they help someone avoid the same pain I went through.
+
+**Use freely. Learn deeply. Debug systematically.**
+
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║  🔥 "Every bug fixed is a lesson learned.                         ║
+║  💡 Every lesson documented is wisdom preserved.                  ║
+║  ⚡ Every bit of wisdom preserved is power for the future."       ║
+║                                                                   ║
+║  This repository is my external brain — growing, evolving,        ║
+║  and serving as proof that every problem has a solution.          ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 Final Words
+
+<img src="https://img.icons8.com/fluency/96/000000/quote.png" alt="quote" width="80"/>
+
+</div>
+
+This repo exists because **debugging is not just about fixing problems — it's about understanding systems deeply enough to prevent future problems.**
+
+Every issue documented here represents hours of focused work, countless Google searches, dead ends explored, and finally, that moment of clarity when everything clicks. This is the archive of those moments.
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🔮 To Future Me
+
+<img src="https://img.icons8.com/fluency/64/000000/future.png" alt="future"/>
+
+When you're stuck on a problem, remember that past you has probably already solved something similar. **Search this repo first.**
+
+</td>
+<td width="50%" align="center">
+
+### 🌍 To Everyone Else
+
+<img src="https://img.icons8.com/fluency/64/000000/world.png" alt="world"/>
+
+May you never face the same problems I did. But if you do, may these solutions guide you to victory faster than I found mine.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+**Documented with precision, caffeine, and stubborn engineering**
+
+**Cyra © 2025**
+
+---
+
+![Built with](https://img.shields.io/badge/🔥_Built_with-Pain_&_Perseverance-FF5722?style=for-the-badge)
+![Powered by](https://img.shields.io/badge/☕_Powered_by-Caffeine_&_Logic-795548?style=for-the-badge)
+![Tested in](https://img.shields.io/badge/🚀_Tested_in-Production_(My_Life)-FF9800?style=for-the-badge)
+![Maintained with](https://img.shields.io/badge/💜_Maintained_with-Obsession-9C27B0?style=for-the-badge)
+
+---
+
+### 🌟 Show Your Support
+
+If this repo helped you debug something faster, consider giving it a star!
+
+[![Stars](https://img.shields.io/github/stars/cyra/repair-kit?style=social)](https://github.com/cyra/repair-kit/stargazers)
+[![Forks](https://img.shields.io/github/forks/cyra/repair-kit?style=social)](https://github.com/cyra/repair-kit/fork)
+[![Watch](https://img.shields.io/github/watchers/cyra/repair-kit?style=social)](https://github.com/cyra/repair-kit/subscription)
+
+---
+
+**⭐ Star this repo • 🔔 Watch for updates • 🤝 Share your debugging stories**
+
+</div>
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25,30&height=150&section=footer)
