@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=300&section=header&text=REPAIR%20KIT&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Where%20Problems%20Die%20%26%20Knowledge%20Grows&descAlignY=55&descSize=30)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25,30&height=300&section=header&text=REPAIR%20KIT&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Where%20Problems%20Die%20and%20Knowledge%20Grows&descAlignY=55&descSize=25)
 
 ```
 ██████╗ ███████╗██████╗  █████╗ ██╗██████╗     ██╗  ██╗██╗████████╗
@@ -11,73 +11,89 @@
 ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝   ╚═╝   
 ```
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="120" height="120"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="100" height="100"/>
 
-# 🔥 THE LEGENDARY TROUBLESHOOTING ARCHIVE 🔥
+### ⚡ *A Personal Archive of Real-World Problems & Verified Fixes* ⚡
 
-### *"Every error. Every bug. Every crash. Logged. Solved. Documented forever."*
-
-![Developed by Arun VK](https://img.shields.io/badge/🔧_Developed_by-Arun_VK-9C27B0?style=for-the-badge&logo=github&logoColor=white)
+![Maintained by Cyra](https://img.shields.io/badge/🔥_Maintained_by-Cyra-9C27B0?style=for-the-badge&logo=github&logoColor=white)
 ![Root Cause Driven](https://img.shields.io/badge/🎯_Root_Cause-Driven-FF5722?style=for-the-badge&logo=target&logoColor=white)
 ![Living Knowledge Base](https://img.shields.io/badge/🧠_Living-Knowledge_Base-4CAF50?style=for-the-badge&logo=database&logoColor=white)
 
-![Troubleshooting](https://img.shields.io/badge/🐛_Troubleshooting-Diagnostics-2196F3?style=for-the-badge&logo=bug&logoColor=white)
+![Troubleshooting](https://img.shields.io/badge/🔍_Troubleshooting-Diagnostics-2196F3?style=for-the-badge&logo=bug&logoColor=white)
 ![Future Proofed](https://img.shields.io/badge/🛡️_Future-Proofed-FF9800?style=for-the-badge&logo=shield&logoColor=white)
-![Status](https://img.shields.io/badge/⚡_Status-Always_Growing-00BCD4?style=for-the-badge&logo=trending-up&logoColor=white)
+![Markdown Powered](https://img.shields.io/badge/📝_Markdown-Powered-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-[![Stars](https://img.shields.io/github/stars/ArunVK/repair-kit?style=for-the-badge&logo=github&color=yellow)](https://github.com/ArunVK/repair-kit)
-[![Forks](https://img.shields.io/github/forks/ArunVK/repair-kit?style=for-the-badge&logo=github&color=blue)](https://github.com/ArunVK/repair-kit)
-[![Issues](https://img.shields.io/github/issues/ArunVK/repair-kit?style=for-the-badge&logo=github&color=red)](https://github.com/ArunVK/repair-kit/issues)
+![Status](https://img.shields.io/badge/🚀_Status-Always_Growing-00BCD4?style=for-the-badge&logo=trending-up&logoColor=white)
+![Verified Solutions](https://img.shields.io/badge/✅_Verified-Solutions-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Battle Tested](https://img.shields.io/badge/⚔️_Battle-Tested-E91E63?style=for-the-badge&logo=shield&logoColor=white)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+---
 
-### 🎯 *"The place where problems die and knowledge grows."* 🎯
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
+
+### 💀 *"Every error. Every bug. Every crash. Logged. Solved. Documented forever."* 💀
+
+### 🔥 *"The place where problems die and knowledge grows."* 🔥
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cyra.repair-kit&left_color=purple&right_color=green&left_text=Visitors)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2025-blue?style=flat-square)
+![Issues Documented](https://img.shields.io/badge/Issues_Documented-∞-red?style=flat-square)
 
 </div>
 
 ---
 
-## 🌟 What Is This Legendary Repo?
+## 🌟 What Is This?
 
 <table>
 <tr>
-<td width="70%">
+<td width="60%">
 
-**repair-kit** is not your average documentation repo. This is **my engineering brain externalized** — a living, breathing archive of every technical battle fought and won.
+**repair-kit** is my personal engineering brain, externalized and archived in code.
 
-This repository contains **every technical issue I have ever faced** (and will continue to face) — spanning software, hardware, operating systems, networking, browsers, programming tools, and the infinite chaos that comes with being a developer. Each folder represents a **real problem I personally encountered**, diagnosed, hunted down, and completely obliterated.
+This repository contains **every technical issue I have ever faced** (and will face) — spanning software, hardware, operating systems, networking, browsers, programming tools, and the infinite chaos that comes with being a developer. Each folder represents a **real problem I personally encountered**, diagnosed, and solved, complete with:
 
-### 🎯 What Makes This Special?
+- 🔴 **Symptoms** — What broke and how it manifested
+- 🔍 **Root Cause** — The actual underlying issue
+- 🧪 **Diagnosis Steps** — How I isolated the problem
+- 🔧 **Fix Steps** — The verified solution that worked
+- ✅ **Verification** — How to confirm it's actually fixed
+- 🛡️ **Prevention** — How to avoid it happening again
 
-- 🔴 **Real Problems** — Not theoretical. Not copy-pasted. Battle-tested.
-- 🔍 **Deep Diagnostics** — Root cause analysis, not just quick fixes
-- 🧪 **Verified Solutions** — Every fix is tested and validated
-- 📚 **Complete Context** — Full story from symptom to resolution
-- 🛡️ **Future-Proofed** — Prevention strategies included
-- ⚡ **Always Growing** — New battles, new victories, new knowledge
+This isn't a collection of random fixes from the internet. Every entry here is **battle-tested, verified, and documented** from my own engineering experience.
 
 </td>
-<td width="30%" align="center">
+<td width="40%">
 
-<img src="https://img.icons8.com/fluency/200/000000/maintenance.png" alt="repair" width="180"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%">
 
 ### 📊 Quick Stats
 
-![Total Issues](https://img.shields.io/badge/Total_Issues-∞-4CAF50?style=flat-square)
-![Categories](https://img.shields.io/badge/Categories-15+-FF9800?style=flat-square)
-![Success_Rate](https://img.shields.io/badge/Success-100%25-2196F3?style=flat-square)
+![Total Solutions](https://img.shields.io/badge/Solutions-Growing-green?style=for-the-badge)
+![Categories](https://img.shields.io/badge/Categories-15+-blue?style=for-the-badge)
+![Success Rate](https://img.shields.io/badge/Success-100%25-brightgreen?style=for-the-badge)
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+### 💡 *Why does this exist?*
+
+**Because I refuse to solve the same problem twice.**  
+**Because debugging is a skill that improves with documentation.**  
+**Because knowledge that isn't captured is knowledge that's lost.**
+
+</div>
+
 ---
 
 <div align="center">
 
-## 🎨 Why This Repo Exists
+## 🎯 Why This Repo Exists
 
-<img src="https://img.icons8.com/fluency/96/000000/goal.png" alt="goal" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/brain.png" alt="brain" width="80"/>
 
 </div>
 
@@ -87,26 +103,26 @@ This repository contains **every technical issue I have ever faced** (and will c
 
 ### 🧠 Knowledge Preservation
 
-<img src="https://img.icons8.com/fluency/96/000000/brain.png" alt="brain" width="70"/>
+<img src="https://img.icons8.com/fluency/48/000000/bookmark.png" alt="bookmark"/>
 
-- ✨ **Never solve the same problem twice**
-- 📚 Build a searchable knowledge base
-- 🔄 Convert pain into wisdom
-- 💾 Document context before it fades
-- 🎯 Create a personal troubleshooting library
+- ✅ **Never solve the same problem twice**
+- ✅ Build a searchable long-term knowledge base
+- ✅ Convert pain into wisdom
+- ✅ Document context that disappears from memory
+- ✅ Create a personal troubleshooting library
 
 </td>
 <td width="50%" align="center">
 
 ### 🚀 Engineering Growth
 
-<img src="https://img.icons8.com/fluency/96/000000/rocket.png" alt="rocket" width="70"/>
+<img src="https://img.icons8.com/fluency/48/000000/rocket.png" alt="rocket"/>
 
-- 📈 **Improve systematic debugging skills**
-- 🏆 Track evolution as a developer
-- 🎓 Understand root causes deeply
-- 🔮 Build pattern recognition for failures
-- 💡 Have a single source of truth
+- ✅ **Improve systematic debugging skills**
+- ✅ Track evolution as a developer
+- ✅ Understand root causes deeply
+- ✅ Build pattern recognition for failures
+- ✅ Have a single source of truth for all fixes
 
 </td>
 </tr>
@@ -114,14 +130,14 @@ This repository contains **every technical issue I have ever faced** (and will c
 
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║     💡 "Document before you forget.                          ║
-║         Learn before you repeat.                             ║
-║         Fix once, reference forever."                        ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║  🎯 Document before you forget.                                  ║
+║  🧠 Learn before you repeat.                                     ║
+║  🔥 Fix once, reference forever.                                 ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -132,7 +148,7 @@ This repository contains **every technical issue I have ever faced** (and will c
 
 ## 📁 Repository Structure
 
-<img src="https://img.icons8.com/fluency/96/000000/folder-tree.png" alt="structure" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/folder-tree.png" alt="folder" width="80"/>
 
 </div>
 
@@ -142,25 +158,29 @@ Each problem gets its own dedicated folder with complete documentation:
 <tr>
 <td width="50%">
 
-### 🗂️ Folder Organization
-
 ```
 📦 repair-kit/
-┣ 🔥 chrome-not-loading/
+┃
+┣ 📂 chrome-not-loading/
 ┃ ┗ 📄 README.md
-┣ 🌐 dns-corruption-issues/
+┃
+┣ 📂 dns-corruption-issues/
 ┃ ┗ 📄 README.md
-┣ 🔗 git-merge-conflict-hell/
+┃
+┣ 📂 git-merge-conflict-hell/
 ┃ ┗ 📄 README.md
-┣ 🐍 python-venv-broken/
+┃
+┣ 📂 python-venv-broken/
 ┃ ┗ 📄 README.md
-┣ 💥 vpn-driver-conflicts/
+┃
+┣ 📂 vpn-driver-conflicts/
 ┃ ┗ 📄 README.md
-┣ 💻 system-corruption/
+┃
+┣ 📂 system-corruption/
 ┃ ┗ 📄 README.md
-┣ ⚡ vscode-crash-loop/
-┃ ┗ 📄 README.md
-┗ 📄 README.md (you are here)
+┃
+┗ 📂 vscode-crash-loop/
+  ┗ 📄 README.md
 ```
 
 </td>
@@ -168,28 +188,28 @@ Each problem gets its own dedicated folder with complete documentation:
 
 ### 📋 Standard Documentation Format
 
-<img src="https://img.icons8.com/fluency/96/000000/document.png" alt="doc" width="70"/>
+Every issue folder follows this structure:
 
 ```markdown
-# Issue Title
+# 🔴 Issue Title
 
 ## 🔴 Symptoms
-What was broken and how
+What was broken and how it manifested
 
 ## 🎯 Root Cause
-The actual problem
+The actual underlying issue discovered
 
 ## 🔍 Diagnosis Steps
-How I found it
+How I isolated and identified the problem
 
 ## 🔧 Fix Steps
-Complete solution
+Complete step-by-step solution
 
 ## ✅ Verification
-How to confirm
+How to confirm the fix worked
 
-## 🛡️ Prevention
-Avoid it next time
+## 🛡️ Prevention (Optional)
+How to avoid this in the future
 ```
 
 </td>
@@ -202,7 +222,7 @@ Avoid it next time
 
 ## 🚀 How to Use This Repo
 
-<img src="https://img.icons8.com/fluency/96/000000/system-task.png" alt="usage" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/user-manual.png" alt="manual" width="80"/>
 
 </div>
 
@@ -210,12 +230,11 @@ Avoid it next time
 <tr>
 <td width="50%">
 
-### 🔍 For Future Me (And You)
+### 🔍 For Future Me
 
-<img src="https://img.icons8.com/fluency/96/000000/search.png" alt="search" width="60"/>
+<img src="https://img.icons8.com/fluency/48/000000/search.png" alt="search"/>
 
 **Finding Past Issues:**
-
 ```bash
 # Search by keyword
 grep -r "Chrome" */README.md
@@ -223,32 +242,29 @@ grep -r "Chrome" */README.md
 # Search by technology
 grep -r "Python" */README.md
 
-# Search by symptom
-grep -r "crash" */README.md
-
-# Browse all issues
+# Browse by folder names
 ls -la
 ```
 
 **Naming Conventions:**
-- ✅ Descriptive, searchable names
-- ✅ Include technology/tool name
-- ✅ Use hyphens, not spaces
-- ✅ Keep it concise but clear
+- ✔️ Use descriptive, searchable names
+- ✔️ Include technology/tool name
+- ✔️ Use hyphens, not spaces
+- ✔️ Keep it concise but clear
 
 </td>
 <td width="50%">
 
 ### ➕ Adding New Issues
 
-<img src="https://img.icons8.com/fluency/96/000000/plus.png" alt="add" width="60"/>
+<img src="https://img.icons8.com/fluency/48/000000/plus.png" alt="plus"/>
 
 **When documenting a new problem:**
 
-1. 📁 Create a new folder with clear name
-2. 📝 Follow the standard format
+1. 📁 Create a new folder with a clear name
+2. 📝 Follow the standard format above
 3. 🔍 Include all context and details
-4. ❌ Document what DIDN'T work
+4. ❌ Document what DIDN'T work too
 5. ✅ Add verification steps
 6. 🛡️ Include prevention tips
 
@@ -256,7 +272,7 @@ ls -la
 - 🔄 Update old issues if solutions improve
 - 🔗 Add cross-references when relevant
 - 🏷️ Tag issues by category/type
-- 📊 Keep the main README updated
+- 📋 Keep the main README updated
 
 </td>
 </tr>
@@ -281,26 +297,29 @@ graph TB
     E --> F[✅ VERIFICATION COMPLETE]
     F --> G[📝 DOCUMENTED IN REPO]
     G --> H[🛡️ FUTURE-PROOFED]
-    H --> I[🎓 KNOWLEDGE GAINED]
     
-    style A fill:#FF5722,stroke:#333,stroke-width:3px,color:#fff
+    style A fill:#FF5722,stroke:#333,stroke-width:4px,color:#fff
     style D fill:#FF9800,stroke:#333,stroke-width:3px,color:#fff
     style E fill:#2196F3,stroke:#333,stroke-width:3px,color:#fff
     style F fill:#4CAF50,stroke:#333,stroke-width:3px,color:#fff
-    style I fill:#9C27B0,stroke:#333,stroke-width:3px,color:#fff
+    style H fill:#9C27B0,stroke:#333,stroke-width:3px,color:#fff
 ```
+
+<div align="center">
+
+### 🎯 *From Chaos to Clarity — Every Single Time*
+
+</div>
 
 ---
 
 <div align="center">
 
-## ⚡ The Personal Debugging Protocol™
+## ⚡ The Cyra Protocol™
 
-<img src="https://img.icons8.com/fluency/96/000000/settings.png" alt="protocol" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/treatment-plan.png" alt="protocol" width="80"/>
 
-### *My Personal Systematic Debugging Methodology*
-
-![Protocol](https://img.shields.io/badge/Debugging_Protocol-Activated-9C27B0?style=for-the-badge&logo=shield&logoColor=white)
+### 🔥 *My Personal Systematic Debugging Methodology* 🔥
 
 </div>
 
@@ -308,19 +327,19 @@ graph TB
 <tr>
 <td width="50%">
 
-### 🎯 Phase 1: Observation & Isolation
+### 🔍 Phase 1: Observation & Isolation
 
-<img src="https://img.icons8.com/fluency/96/000000/inspection.png" alt="observation" width="60"/>
+<img src="https://img.icons8.com/fluency/48/000000/microscope.png" alt="microscope"/>
 
 #### 1️⃣ **Reproduce**
 - 🔄 Can I make it fail consistently?
 - 📋 What are the exact conditions?
-- ⏰ Does it happen every time or randomly?
+- 🎲 Does it happen every time or randomly?
 
 #### 2️⃣ **Observe**
-- 👀 What exactly is broken?
+- 👁️ What exactly is broken?
 - 💬 What error messages appear?
-- 🌍 What's the full context?
+- 📊 What's the full context?
 
 #### 3️⃣ **Isolate**
 - ✅ What still works normally?
@@ -329,24 +348,24 @@ graph TB
 
 #### 4️⃣ **Test**
 - 🧪 Does it work in a clean environment?
-- 🚫 Can I eliminate external factors?
+- ❌ Can I eliminate external factors?
 - ⚙️ What happens with default settings?
 
 </td>
 <td width="50%">
 
-### 🔧 Phase 2: Analysis & Resolution
+### 🎯 Phase 2: Analysis & Resolution
 
-<img src="https://img.icons8.com/fluency/96/000000/maintenance.png" alt="fix" width="60"/>
+<img src="https://img.icons8.com/fluency/48/000000/settings.png" alt="settings"/>
 
 #### 5️⃣ **Eliminate**
-- ❌ Rule out what it's NOT
+- 🚫 Rule out what it's NOT
 - 🔬 Test one variable at a time
-- 🎯 Remove red herrings systematically
+- 🧹 Remove red herrings systematically
 
 #### 6️⃣ **Fix**
 - 🔧 Apply targeted solution
-- 🎯 Address root cause, not symptoms
+- 🎯 Address the root cause, not symptoms
 - 📝 Document what you're doing
 
 #### 7️⃣ **Validate**
@@ -355,14 +374,14 @@ graph TB
 - 🔄 Can I reproduce the success?
 
 #### 8️⃣ **Document**
-- 📝 Write it down immediately
-- 🌍 Include full context and reasoning
+- 📄 Write it down immediately
+- 🧠 Include full context and reasoning
 - 🛡️ Add prevention tips
 
 #### 9️⃣ **Future-proof**
 - 🔮 How can I avoid this next time?
 - 📚 What patterns did I learn?
-- 🧠 What should I remember?
+- 💡 What should I remember?
 
 </td>
 </tr>
@@ -370,12 +389,18 @@ graph TB
 
 <div align="center">
 
-### 🔑 Core Debugging Principles
-
-![Principle 1](https://img.shields.io/badge/Never_Assume-Always_Verify-FF5722?style=for-the-badge)
-![Principle 2](https://img.shields.io/badge/Never_Cargo_Cult-Always_Understand-FF9800?style=for-the-badge)
-![Principle 3](https://img.shields.io/badge/Find_Root_Causes-Not_Symptoms-2196F3?style=for-the-badge)
-![Principle 4](https://img.shields.io/badge/Never_Forget-Always_Document-4CAF50?style=for-the-badge)
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                    🔑 Core Debugging Principles 🔑                ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  ⚡ Never assume. Always verify.                                 ║
+║  🧠 Never cargo-cult. Always understand.                         ║
+║  🎯 Never stop at symptoms. Always find root causes.             ║
+║  📝 Never forget. Always document.                               ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -385,7 +410,7 @@ graph TB
 
 ## 🛠️ Types of Problems Logged Here
 
-<img src="https://img.icons8.com/fluency/96/000000/categorize.png" alt="categories" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/toolbox.png" alt="toolbox" width="80"/>
 
 </div>
 
@@ -395,7 +420,7 @@ graph TB
 
 ### 💻 Operating Systems
 
-<img src="https://img.icons8.com/fluency/96/000000/windows-10.png" alt="os" width="70"/>
+<img src="https://img.icons8.com/fluency/64/000000/windows-10.png" alt="os"/>
 
 - 🪟 Windows corruption
 - 🐧 Linux boot issues
@@ -404,14 +429,12 @@ graph TB
 - 📦 Driver conflicts
 - ⚙️ Service failures
 
-![OS](https://img.shields.io/badge/OS_Issues-Documented-0078D6?style=flat-square)
-
 </td>
 <td width="33%" align="center">
 
 ### 🌐 Networking & Web
 
-<img src="https://img.icons8.com/fluency/96/000000/network.png" alt="network" width="70"/>
+<img src="https://img.icons8.com/fluency/64/000000/internet.png" alt="network"/>
 
 - 🌍 Browser failures
 - 🔒 VPN/Tunnel conflicts
@@ -420,14 +443,12 @@ graph TB
 - 🛡️ Firewall issues
 - 🔐 SSL/TLS errors
 
-![Network](https://img.shields.io/badge/Network_Issues-Solved-4CAF50?style=flat-square)
-
 </td>
 <td width="33%" align="center">
 
 ### 🔧 Development Tools
 
-<img src="https://img.icons8.com/fluency/96/000000/code.png" alt="dev" width="70"/>
+<img src="https://img.icons8.com/fluency/64/000000/code.png" alt="code"/>
 
 - 🐍 Python environment chaos
 - 📦 Package manager hell
@@ -436,8 +457,6 @@ graph TB
 - 🐛 Debugger issues
 - 🔨 Build tool failures
 
-![Dev Tools](https://img.shields.io/badge/Dev_Tools-Fixed-2196F3?style=flat-square)
-
 </td>
 </tr>
 <tr>
@@ -445,48 +464,42 @@ graph TB
 
 ### 📊 Data & Algorithms
 
-<img src="https://img.icons8.com/fluency/96/000000/graph.png" alt="dsa" width="70"/>
+<img src="https://img.icons8.com/fluency/64/000000/graph.png" alt="graph"/>
 
 - ⚡ DSA problem patterns
-- 🏆 Competitive programming
+- 🏆 Competitive programming pitfalls
 - 🧮 Algorithm optimization
 - 📈 Performance debugging
 - 🎯 Logic errors
 - 🔢 Edge case handling
-
-![DSA](https://img.shields.io/badge/DSA_&_CP-Mastered-9C27B0?style=flat-square)
 
 </td>
 <td width="33%" align="center">
 
 ### 🔐 Security & Auth
 
-<img src="https://img.icons8.com/fluency/96/000000/security-checked.png" alt="security" width="70"/>
+<img src="https://img.icons8.com/fluency/64/000000/lock.png" alt="lock"/>
 
 - 🔑 SSH key problems
 - 🎫 OAuth failures
-- 🔒 Permission denied
+- 🔒 Permission denied errors
 - 🔐 Certificate issues
 - 🛂 Authentication loops
 - 🔓 Token corruption
-
-![Security](https://img.shields.io/badge/Security-Secured-FF5722?style=flat-square)
 
 </td>
 <td width="33%" align="center">
 
 ### 💥 The Unexplainable
 
-<img src="https://img.icons8.com/fluency/96/000000/magic-wand.png" alt="chaos" width="70"/>
+<img src="https://img.icons8.com/fluency/64/000000/ghost.png" alt="ghost"/>
 
-- 👻 Random gremlins
+- 👻 Random Windows gremlins
 - 💾 Corrupted files
 - 🎲 Inconsistent failures
 - 🌀 Phantom errors
 - 🔮 Mysterious crashes
-- 🎪 "Worked yesterday"
-
-![Chaos](https://img.shields.io/badge/Chaos-Conquered-FF9800?style=flat-square)
+- 🎪 "It worked yesterday" syndrome
 
 </td>
 </tr>
@@ -500,7 +513,7 @@ graph TB
 
 <img src="https://img.icons8.com/fluency/96/000000/trophy.png" alt="trophy" width="80"/>
 
-### *The Most Epic Debugging Sessions*
+### 🔥 *The Most Memorable Debugging Sessions* 🔥
 
 </div>
 
@@ -508,20 +521,17 @@ graph TB
 <tr>
 <td width="50%">
 
-### 🔥 **The Chrome Apocalypse**
+### 💀 **The Chrome Apocalypse**
 
-<img src="https://img.icons8.com/fluency/96/000000/chrome.png" alt="chrome" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="chrome" width="60"/>
 
-**⏱️ Duration:** 4 hours of pure chaos  
-**🔴 Severity:** Catastrophic  
-**🎯 Root Cause:** Ghost VPN adapters
+**⏱️ 4 hours of debugging**
 
-Internet worked perfectly. Every browser except Chrome loaded websites. Even IP addresses failed. The culprit? Virtual network adapters hijacking Chromium's network stack after VPN uninstall.
+Internet worked perfectly. Every browser except Chrome loaded websites. Even IP addresses failed in Chrome. The culprit? Ghost VPN adapters hijacking Chromium's network stack.
 
-**💡 Lessons Learned:**
-- Check virtual adapters first
-- VPN uninstallers leave ghosts
-- Chrome has its own network stack
+**Severity:** 🔴 Catastrophic  
+**Coffee Consumed:** ☕☕☕☕  
+**Lessons:** Check virtual network adapters first
 
 [![View Story](https://img.shields.io/badge/📖_View_Full_Story-FF5722?style=for-the-badge)](./chrome-not-loading/)
 
@@ -530,20 +540,17 @@ Internet worked perfectly. Every browser except Chrome loaded websites. Even IP 
 
 ### ⚡ **The DNS Labyrinth**
 
-<img src="https://img.icons8.com/fluency/96/000000/dns.png" alt="dns" width="60"/>
+<img src="https://img.icons8.com/fluency/60/000000/dns.png" alt="dns"/>
 
-**⏱️ Duration:** 3 hours of confusion  
-**🟠 Severity:** Complex  
-**🎯 Root Cause:** Multi-layer cache corruption
+**⏱️ 3 hours of confusion**
 
-Websites resolved to wrong IPs. Flushing DNS didn't help. Browser cache was fine. The issue? Corruption spanning Chrome, Windows, AND router levels simultaneously.
+Websites resolved to wrong IPs. Flushing DNS didn't help. Browser cache was fine. The issue? Multi-layer cache corruption spanning Chrome, Windows, and router levels simultaneously.
 
-**💡 Lessons Learned:**
-- DNS has many cache layers
-- Flush at every level
-- Router cache exists too
+**Severity:** 🟠 Complex  
+**Coffee Consumed:** ☕☕☕  
+**Lessons:** DNS has many cache layers
 
-[![View Story](https://img.shields.io/badge/📖_View_Full_Story-2196F3?style=for-the-badge)](./dns-corruption-issues/)
+[![View Story](https://img.shields.io/badge/📖_View_Full_Story-FF9800?style=for-the-badge)](./dns-corruption-issues/)
 
 </td>
 </tr>
@@ -552,40 +559,34 @@ Websites resolved to wrong IPs. Flushing DNS didn't help. Browser cache was fine
 
 ### 🐍 **The Python Venv Nightmare**
 
-<img src="https://img.icons8.com/fluency/96/000000/python.png" alt="python" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60"/>
 
-**⏱️ Duration:** 2 hours of frustration  
-**🟡 Severity:** Moderate  
-**🎯 Root Cause:** Broken symlinks
+**⏱️ 2 hours of frustration**
 
-Virtual environment wouldn't activate. Pip failed. System Python was fine. The cause? Windows update moved Python paths and broke all symlinks in venv.
+Virtual environment wouldn't activate. Pip commands failed. System Python was fine. The cause? Broken symlinks from a Windows system update that moved Python installation paths.
 
-**💡 Lessons Learned:**
-- Always use absolute paths
-- Venv are fragile to moves
-- Recreate after system updates
+**Severity:** 🟡 Moderate  
+**Coffee Consumed:** ☕☕  
+**Lessons:** Always use absolute paths in venv
 
-[![View Story](https://img.shields.io/badge/📖_View_Full_Story-4CAF50?style=for-the-badge)](./python-venv-broken/)
+[![View Story](https://img.shields.io/badge/📖_View_Full_Story-2196F3?style=for-the-badge)](./python-venv-broken/)
 
 </td>
 <td width="50%">
 
 ### 💻 **The VS Code Extension War**
 
-<img src="https://img.icons8.com/fluency/96/000000/visual-studio-code-2019.png" alt="vscode" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="60"/>
 
-**⏱️ Duration:** 1 hour of chaos  
-**🟢 Severity:** Simple  
-**🎯 Root Cause:** Extension conflict
+**⏱️ 1 hour of chaos**
 
-VS Code crashed on startup. Safe mode worked fine. The problem? Two extensions fighting over the same keybindings created an infinite conflict loop during initialization.
+VS Code crashed on startup. Safe mode worked. The problem? Two extensions fighting over keybindings created an infinite conflict loop during initialization.
 
-**💡 Lessons Learned:**
-- Disable half, test, repeat
-- Check extension conflicts
-- Safe mode is your friend
+**Severity:** 🟢 Simple  
+**Coffee Consumed:** ☕  
+**Lessons:** Disable half, test, repeat
 
-[![View Story](https://img.shields.io/badge/📖_View_Full_Story-9C27B0?style=for-the-badge)](./vscode-crash-loop/)
+[![View Story](https://img.shields.io/badge/📖_View_Full_Story-4CAF50?style=for-the-badge)](./vscode-crash-loop/)
 
 </td>
 </tr>
@@ -595,9 +596,9 @@ VS Code crashed on startup. Safe mode worked fine. The problem? Two extensions f
 
 <div align="center">
 
-## 📊 Repository Statistics Dashboard
+## 📊 Repository Statistics
 
-<img src="https://img.icons8.com/fluency/96/000000/dashboard.png" alt="stats" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/bar-chart.png" alt="stats" width="80"/>
 
 </div>
 
@@ -605,72 +606,47 @@ VS Code crashed on startup. Safe mode worked fine. The problem? Two extensions f
 <tr>
 <td align="center" width="25%">
 
-### 📈 Issues Solved
-![Issues](https://img.shields.io/badge/∞-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)
-**And Counting**
+### 📈 Total Solutions
+![](https://img.shields.io/badge/∞-Growing-4CAF50?style=for-the-badge&logo=trending-up)
 
 </td>
 <td align="center" width="25%">
 
 ### ⏱️ Avg Fix Time
-![Time](https://img.shields.io/badge/2.5_Hours-FF9800?style=for-the-badge&logo=clock&logoColor=white)
-**Per Issue**
+![](https://img.shields.io/badge/2.5_hours-Average-FF9800?style=for-the-badge&logo=clock)
 
 </td>
 <td align="center" width="25%">
 
 ### ✅ Success Rate
-![Success](https://img.shields.io/badge/100%25-2196F3?style=for-the-badge&logo=target&logoColor=white)
-**Never Give Up**
+![](https://img.shields.io/badge/100%25-Success-2196F3?style=for-the-badge&logo=checkmarx)
 
 </td>
 <td align="center" width="25%">
 
 ### 📚 Categories
-![Categories](https://img.shields.io/badge/15+-9C27B0?style=for-the-badge&logo=category&logoColor=white)
-**Covered**
-
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-
-### ☕ Coffee Consumed
-![Coffee](https://img.shields.io/badge/∞_Cups-795548?style=for-the-badge&logo=coffeescript&logoColor=white)
-**Fuel**
-
-</td>
-<td align="center" width="25%">
-
-### 🕐 Hours Debugging
-![Hours](https://img.shields.io/badge/Too_Many-FF5722?style=for-the-badge&logo=clock&logoColor=white)
-**But Worth It**
-
-</td>
-<td align="center" width="25%">
-
-### 📈 Knowledge Gained
-![Knowledge](https://img.shields.io/badge/Exponential-00BCD4?style=for-the-badge&logo=trending-up&logoColor=white)
-**Growth**
-
-</td>
-<td align="center" width="25%">
-
-### 🔥 Bugs Squashed
-![Bugs](https://img.shields.io/badge/Countless-4CAF50?style=for-the-badge&logo=bug&logoColor=white)
-**RIP Bugs**
+![](https://img.shields.io/badge/15+-Topics-9C27B0?style=for-the-badge&logo=category)
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+![Coffee Consumed](https://img.shields.io/badge/☕_Coffee_Consumed-∞_cups-795548?style=for-the-badge)
+![Hours Debugging](https://img.shields.io/badge/⏰_Hours_Debugging-Too_Many-FF5722?style=for-the-badge)
+![Knowledge Gained](https://img.shields.io/badge/🧠_Knowledge-Exponential-00BCD4?style=for-the-badge)
+![Bugs Squashed](https://img.shields.io/badge/🐛_Bugs_Squashed-Countless-E91E63?style=for-the-badge)
+
+</div>
+
 ---
 
 <div align="center">
 
-## 🎓 Learning Resources & Essential Tools
+## 🎓 Learning Resources & Tools
 
-<img src="https://img.icons8.com/fluency/96/000000/book.png" alt="resources" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/book.png" alt="book" width="80"/>
 
 </div>
 
@@ -680,31 +656,27 @@ VS Code crashed on startup. Safe mode worked fine. The problem? Two extensions f
 
 ### 📚 Recommended Reading
 
-<img src="https://img.icons8.com/fluency/96/000000/reading.png" alt="reading" width="60"/>
+<img src="https://img.icons8.com/fluency/48/000000/reading.png" alt="reading"/>
 
-- 📘 *The Practice of System and Network Administration*
-- 📗 *Site Reliability Engineering (Google SRE Book)*
-- 📕 *Debugging: The 9 Indispensable Rules*
-- 📙 *Systems Performance* by Brendan Gregg
-- 📓 *The Art of Troubleshooting*
-
-[![Books](https://img.shields.io/badge/Essential-Reading-4CAF50?style=for-the-badge&logo=book&logoColor=white)](https://github.com/ArunVK/repair-kit)
+- 📖 *The Practice of System and Network Administration* — Tom Limoncelli
+- 📖 *Site Reliability Engineering* — Google SRE Book
+- 📖 *Debugging: The 9 Indispensable Rules* — David Agans
+- 📖 *Systems Performance* — Brendan Gregg
+- 📖 *The Art of Troubleshooting* — Paul Venezia
 
 </td>
 <td width="50%">
 
 ### 🔧 Essential Debugging Tools
 
-<img src="https://img.icons8.com/fluency/96/000000/toolbox.png" alt="tools" width="60"/>
+<img src="https://img.icons8.com/fluency/48/000000/toolbox.png" alt="tools"/>
 
-- 🛠️ **Sysinternals Suite** — Windows utilities
-- 🦈 **Wireshark** — Network analysis
-- 📊 **Process Monitor** — System monitoring
-- 🔍 **Chrome DevTools** — Browser debugging
-- 🔄 **Git Bisect** — Finding commit bugs
-- 🔬 **strace/ltrace** — System call tracing
-
-[![Tools](https://img.shields.io/badge/Power-Tools-FF9800?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/ArunVK/repair-kit)
+- 🛠️ **Sysinternals Suite** — Windows system utilities
+- 🔍 **Wireshark** — Network protocol analyzer
+- 📊 **Process Monitor** — Real-time system monitoring
+- 🌐 **Chrome DevTools** — Browser debugging
+- 🔀 **Git Bisect** — Finding commit bugs
+- 🐧 **strace/ltrace** — System call tracing (Linux)
 
 </td>
 </tr>
@@ -714,45 +686,38 @@ VS Code crashed on startup. Safe mode worked fine. The problem? Two extensions f
 
 <div align="center">
 
-## 🤝 Contributing & Community
+## 🤝 Contributing
 
-<img src="https://img.icons8.com/fluency/96/000000/collaboration.png" alt="community" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/handshake.png" alt="handshake" width="80"/>
 
 </div>
 
-<table>
+This is my personal knowledge base, but if you've stumbled upon this and found it helpful:
+
+<table align="center">
 <tr>
 <td align="center" width="33%">
 
-### 🐛 Found an Issue?
+### 🐛 Issues
+Found an error or have a question?
 
-<img src="https://img.icons8.com/fluency/96/000000/bug.png" alt="bug" width="60"/>
-
-Spotted an error or have a question?
-
-[![Open Issue](https://img.shields.io/badge/Open-Issue-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArunVK/repair-kit/issues)
+[![Open Issue](https://img.shields.io/badge/Open-Issue-red?style=for-the-badge&logo=github)](https://github.com/cyra/repair-kit/issues)
 
 </td>
 <td align="center" width="33%">
 
-### 💬 Start Discussion
-
-<img src="https://img.icons8.com/fluency/96/000000/chat.png" alt="discussion" width="60"/>
-
+### 💬 Discussions
 Want to share your own solution?
 
-[![Discussion](https://img.shields.io/badge/Start-Discussion-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArunVK/repair-kit/discussions)
+[![Start Discussion](https://img.shields.io/badge/Start-Discussion-blue?style=for-the-badge&logo=github)](https://github.com/cyra/repair-kit/discussions)
 
 </td>
 <td align="center" width="33%">
 
-### ✨ Suggest Improvement
+### 💡 Improvements
+Better way to document something?
 
-<img src="https://img.icons8.com/fluency/96/000000/idea.png" alt="idea" width="60"/>
-
-Better way to document?
-
-[![Suggest](https://img.shields.io/badge/Suggest-Improvement-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArunVK/repair-kit/issues/new)
+[![Suggest](https://img.shields.io/badge/Suggest-Improvement-green?style=for-the-badge&logo=github)](https://github.com/cyra/repair-kit/pulls)
 
 </td>
 </tr>
@@ -766,28 +731,24 @@ Better way to document?
 
 <img src="https://img.icons8.com/fluency/96/000000/certificate.png" alt="license" width="80"/>
 
+These are my personal troubleshooting notes, shared publicly in the hope they help someone avoid the same pain I went through.
+
+**Use freely. Learn deeply. Debug systematically.**
+
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative)
+
 </div>
-
-**© 2025 Arun VK. All Rights Reserved.**
-
-These are my personal troubleshooting notes, shared publicly in the hope they help someone avoid the same pain I went through. While the content is shared for educational purposes, all rights to this repository and its contents belong to Arun VK.
-
-**Use freely for learning. Credit appropriately. Debug systematically.**
-
-Feel free to reference, adapt, or learn from anything here. If it helps you solve your problem faster, that's a win. If you use or reference this work, please provide appropriate attribution.
-
-[![License](https://img.shields.io/badge/License-All_Rights_Reserved-green?style=for-the-badge&logo=shield&logoColor=white)](LICENSE)
 
 ---
 
 <div align="center">
 
-```ascii
+```
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
-║  "Every bug fixed is a lesson learned.                            ║
-║   Every lesson documented is wisdom preserved.                    ║
-║   Every bit of wisdom preserved is power for the future."         ║
+║  🔥 "Every bug fixed is a lesson learned.                         ║
+║  💡 Every lesson documented is wisdom preserved.                  ║
+║  ⚡ Every bit of wisdom preserved is power for the future."       ║
 ║                                                                   ║
 ║  This repository is my external brain — growing, evolving,        ║
 ║  and serving as proof that every problem has a solution.          ║
@@ -795,10 +756,74 @@ Feel free to reference, adapt, or learn from anything here. If it helps you solv
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
-### 💬 Final Words
+</div>
 
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="400">
+---
+
+<div align="center">
+
+## 💬 Final Words
+
+<img src="https://img.icons8.com/fluency/96/000000/quote.png" alt="quote" width="80"/>
+
+</div>
 
 This repo exists because **debugging is not just about fixing problems — it's about understanding systems deeply enough to prevent future problems.**
 
-Every issue documented here represents hours of focused work, countless Google searches, dea
+Every issue documented here represents hours of focused work, countless Google searches, dead ends explored, and finally, that moment of clarity when everything clicks. This is the archive of those moments.
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🔮 To Future Me
+
+<img src="https://img.icons8.com/fluency/64/000000/future.png" alt="future"/>
+
+When you're stuck on a problem, remember that past you has probably already solved something similar. **Search this repo first.**
+
+</td>
+<td width="50%" align="center">
+
+### 🌍 To Everyone Else
+
+<img src="https://img.icons8.com/fluency/64/000000/world.png" alt="world"/>
+
+May you never face the same problems I did. But if you do, may these solutions guide you to victory faster than I found mine.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+**Documented with precision, caffeine, and stubborn engineering**
+
+**Cyra © 2025**
+
+---
+
+![Built with](https://img.shields.io/badge/🔥_Built_with-Pain_&_Perseverance-FF5722?style=for-the-badge)
+![Powered by](https://img.shields.io/badge/☕_Powered_by-Caffeine_&_Logic-795548?style=for-the-badge)
+![Tested in](https://img.shields.io/badge/🚀_Tested_in-Production_(My_Life)-FF9800?style=for-the-badge)
+![Maintained with](https://img.shields.io/badge/💜_Maintained_with-Obsession-9C27B0?style=for-the-badge)
+
+---
+
+### 🌟 Show Your Support
+
+If this repo helped you debug something faster, consider giving it a star!
+
+[![Stars](https://img.shields.io/github/stars/cyra/repair-kit?style=social)](https://github.com/cyra/repair-kit/stargazers)
+[![Forks](https://img.shields.io/github/forks/cyra/repair-kit?style=social)](https://github.com/cyra/repair-kit/fork)
+[![Watch](https://img.shields.io/github/watchers/cyra/repair-kit?style=social)](https://github.com/cyra/repair-kit/subscription)
+
+---
+
+**⭐ Star this repo • 🔔 Watch for updates • 🤝 Share your debugging stories**
+
+</div>
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25,30&height=150&section=footer)
