@@ -11,6 +11,8 @@
 ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝   ╚═╝   
 ```
 
+# 🔧 REPAIR KIT 🔧
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="100" height="100"/>
 
 ### ⚡ *A Personal Archive of Real-World Problems & Verified Fixes* ⚡
@@ -317,7 +319,7 @@ graph TB
 
 ## ⚡ The Cyra Protocol™
 
-<img src="https://img.icons8.com/fluency/96/000000/treatment-plan.png" alt="protocol" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/mind-map.png" alt="protocol" width="80"/>
 
 ### 🔥 *My Personal Systematic Debugging Methodology* 🔥
 
